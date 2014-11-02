@@ -1,0 +1,4 @@
+# Elasticsearch 1.0
+elasticsearch>=1.0.0,<2.0.0
+docker-py
+argparse
